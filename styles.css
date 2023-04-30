@@ -1,0 +1,68 @@
+body {
+  overflow-x: hidden;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  text-align: center;
+  background-color: rgb(121, 165, 204);
+  margin: 0;
+  padding: 0%;
+  }
+ 
+video{
+ margin-left: auto;
+
+}  
+img{
+  width: 300px;
+}
+.current a{
+  color: #e8491d;
+  font-weight: bold;
+}
+nav ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0%
+  float; right;
+  background-color: black;
+  font-size: larger;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+}
+.button_1{
+  height: 38px;
+  background: green;
+  border: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: chocolate;
+}
+
+
+
+#newsletter{
+  padding: 15px;
+  color: #e8491d;
+  background: #e8491d;
+}
+#newsletter h1{
+  float: left;
+}
+#newsletter form{
+  float: right;
+  margin-top: 15px;
+}
+#newsletter input[type="email"]{
+  padding: 4px;
+  height: 25px;
+  width: 250px;
+}
+
+
+footer{
+  padding: 20px;
+  margin-top: 20px;
+  color:red;
+  text-align:auto;
+}
